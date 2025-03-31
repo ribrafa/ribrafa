@@ -1,62 +1,65 @@
-<h2 align="left">Sobre mim:</h2>
+<h2 align="center">👋 Olá, eu sou o Rafael Ribeiro! 🚀</h2>
 
-###
+---
 
-<p align="left">💻 Profissional de TI como Analista de Suporte Arquivos em transição para Desenvolvimento Full Stack 🚀<br><br>Atuo na área de Tecnologia da Informação desde 2022 como Analista de Suporte Arquivos, com experiência em recepção, análise e processamento de dados para integração de sistemas empresariais. Minha rotina envolve comunicação direta com parceiros internos e externos para resolver problemas e otimizar processos, garantindo eficiência e qualidade.<br><br>Estou em transição para o desenvolvimento de software, aplicando minha experiência em TI para criar soluções eficientes e escaláveis. Atualmente, estudo Desenvolvimento Full Stack, com foco nas tecnologias apresentadas abaixo.</p>
+<h2 align="left">💻 Sobre Mim</h2>
 
-###
+<p align="left">
+Atualmente sou <strong>Analista de Suporte Arquivos</strong> e estou em transição para <strong>Desenvolvimento Full Stack</strong>. Possuo experiência em <strong>integração de sistemas empresariais, análise e processamento de dados</strong> e suporte técnico, trabalhando diretamente com parceiros internos e externos. 
 
-<h3 align="left">Tecnologias</h3>
+Estou aprofundando meus conhecimentos em <strong>Desenvolvimento Full Stack</strong>, focando nas tecnologias abaixo, com o objetivo de criar soluções eficientes e escaláveis. 🚀
+</p>
 
-###
+---
 
+<h2 align="left">🛠️ Tecnologias</h2>
+
+<h3>📌 Frontend</h3>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo"/>
 </div>
 
-###
+<h3>⚙️ Backend</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS logo"/>
+</div>
 
-<h3 align="left">Estátisticas</h3>
+<h3>🗄️ Banco de Dados</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo"/>
+</div>
 
-###
+<h3>🚀 Ferramentas</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo"/>
+</div>
+
+---
+
+<h2 align="left">📊 Estatísticas</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ribrafa&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura_dark&hide_border=false&order=2&custom_title=Linguagens%20utilizadas" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ribrafa&radius=16&theme=github-dark&area=true&order=5&custom_title=Gr%C3%A1fico%20de%20contribui%C3%A7%C3%A3o&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ribrafa&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura_dark&hide_border=false&order=2&custom_title=Linguagens%20utilizadas" height="150" alt="languages graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ribrafa&radius=16&theme=github-dark&area=true&order=5&custom_title=Gráfico%20de%20contribuição&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"/>
 </div>
 
-###
+---
 
-<h3 align="left">Mídias e Contato:</h3>
+<h2 align="left">📞 Contato</h2>
 
-###
+<p align="left">💬 Entre em contato comigo:</p>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/rafael-ribeiro-da-silva-623502359/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo"/>
   </a>
   <a href="https://wa.me/+5514997427125" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp logo"/>
   </a>
 </div>
-
-###
