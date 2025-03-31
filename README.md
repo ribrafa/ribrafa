@@ -1,4 +1,4 @@
-<h2 align="center">👋 Olá, eu sou o Rafael Ribeiro! 🚀</h2>
+<h2 align="center"> Olá, eu sou o Rafael Ribeiro! </h2>
 
 ---
 
