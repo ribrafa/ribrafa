@@ -2,7 +2,7 @@
 
 ---
 
-<h2 align="left">💻 Sobre Mim</h2>
+<h2 align="left"> Sobre Mim</h2>
 
 <p align="left">
 Atualmente sou <strong>Analista de Suporte Arquivos</strong> e estou em transição para <strong>Desenvolvimento Full Stack</strong>. Possuo experiência em <strong>integração de sistemas empresariais, análise e processamento de dados</strong> e suporte técnico, trabalhando diretamente com parceiros internos e externos. 
@@ -14,7 +14,7 @@ Estou aprofundando meus conhecimentos em <strong>Desenvolvimento Full Stack</str
 
 <h2 align="left">🛠️ Tecnologias</h2>
 
-<h3>📌 Frontend</h3>
+<h3>Frontend</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo"/>
@@ -23,19 +23,19 @@ Estou aprofundando meus conhecimentos em <strong>Desenvolvimento Full Stack</str
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo"/>
 </div>
 
-<h3>⚙️ Backend</h3>
+<h3>Backend</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS logo"/>
 </div>
 
-<h3>🗄️ Banco de Dados</h3>
+<h3>Banco de Dados</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo"/>
 </div>
 
-<h3>🚀 Ferramentas</h3>
+<h3>Ferramentas</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo"/>
 </div>
